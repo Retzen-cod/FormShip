@@ -1,6 +1,6 @@
 # 📜 FormShip 🚀
 
-**FormShip** es una app offline que permite crear, editar y compartir fórmulas matemáticas sin necesidad de programar. Define variables, genera formularios automáticamente y obtén resultados paso a paso. Todo sin tocar código. 💡
+**FormShip** es una app offline que permite crear, editar y compartir fórmulas matemáticas sin necesidad de programar. Define variables, utiliza resultados de pasos anteriores, genera formularios automáticamente y obtén resultados paso a paso. Todo sin tocar código. 💡
 
 ## ✨ **Características principales**
 
